@@ -1,2 +1,6 @@
 # Data Wrangling for  WeRateDogs
- I this project, I will be wrangling, analyzing and visualizing the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
+This is my second Data Analysis Project during my learning Phase. In this project, I will be wrangling, analyzing and visualizing the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. 
+
+<h3>Introduction</h3>
+<br> </br>
+The WeRateDogs Twitter archive contains basic tweet data for over 5000+ of their tweets, This archive has been filtered and extracted to produce the enhanced archive that forms the raw datset for tis project. The goal of this project is to Wrangle the data using the Gather, Asses and Clean steps and also ensure tidiness of the data. After which some analysis and visualization can be done.
